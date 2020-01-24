@@ -12,5 +12,5 @@
 
 **Research**
 
-*Research Assistant, [UCSC Creative Coding Lab](https://creativecoding.soe.ucsc.edu) (IN PROGRESS as of 1/2020)*
-  Exoskeleton arm that provides resistive force in response to collisions in a VR environment. Unity, Vive VR. 
+*Research Assistant, [UCSC Creative Coding Lab](https://creativecoding.soe.ucsc.edu) (IN PROGRESS as of 1/2020)*  
+-Exoskeleton arm that provides resistive force in response to collisions in a VR environment. Unity, Vive VR. 
