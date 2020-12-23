@@ -13,5 +13,6 @@
 **Research**
 
 *Research Assistant, [UCSC Creative Coding Lab](https://creativecoding.soe.ucsc.edu)*
+
 -Working with senior postdoctoral researcher Oskar Elek to improve his data visualization software, Polyphorm
 
