@@ -1,10 +1,10 @@
 # Drew Ehrlich
 
-3rd Year Computer Science(BS) and Film/Digital Media(BA) @ UC Santa Cruz
+4th Year Computer Science(BS) and Film/Digital Media(BA) @ UC Santa Cruz
 
-**Personal Projects**
+**Important Links**
 
-[*twitchplaystoaster*](https://devpost.com/software/twitchplaystoaster) (CruzHacks 2020 Entry)
+[*Hackathon Projects*](https://devpost.com/deehrlic)
 
 [*bar-boy*](https://github.com/deehrlic/bar-boy) 
 
@@ -12,5 +12,6 @@
 
 **Research**
 
-*Research Assistant, [UCSC Creative Coding Lab](https://creativecoding.soe.ucsc.edu) (IN PROGRESS as of 1/2020)*  
--Exoskeleton arm that provides resistive force in response to collisions in a VR environment. Unity, Vive VR. 
+*Research Assistant, [UCSC Creative Coding Lab](https://creativecoding.soe.ucsc.edu)*
+-Working with senior postdoctoral researcher Oskar Elek to improve his data visualization software, Polyphorm
+
