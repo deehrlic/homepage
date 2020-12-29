@@ -5,7 +5,7 @@
   "author": "Drew Ehrlich",
   "license": "UNLICENSED",
   "repository": "none",
-  "homepage": "https://deehrlic.github.io",
+  "homepage": "https://deehrlic.github.io/homepage",
   "devDependencies": {
     "react-scripts": "4.0.0",
     "@mui-treasury/components": "^1.4.0",
